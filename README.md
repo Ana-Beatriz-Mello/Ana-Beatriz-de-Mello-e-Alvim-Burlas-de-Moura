@@ -19,3 +19,5 @@ Dependencies:
     H2
     
 Project listens to port 9090
+
+Linkeding post: https://www.linkedin.com/feed/update/urn:li:activity:7343797583351312384/
